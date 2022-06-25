@@ -9,3 +9,11 @@ function megaCool() {
 }
 
 megaCool();
+
+
+function oldFunc() {
+  console.log('Function assed')
+  return 4+2;
+}
+
+oldFunc();
